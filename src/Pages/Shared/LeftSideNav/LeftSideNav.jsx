@@ -27,7 +27,7 @@ const LeftSideNav = () => {
         </Link>
       ))}
 
-      <div className="card w-96 bg-base-100 shadow-none">
+      <div className="card  bg-base-100 shadow-none">
         <figure>
           <img
             src={bayern}
@@ -47,7 +47,7 @@ const LeftSideNav = () => {
         </div>
       </div>
 
-      <div className="card w-96 bg-base-100 shadow-none">
+      <div className="card  bg-base-100 shadow-none">
         <figure>
           <img
             src={bayern2}
@@ -67,10 +67,10 @@ const LeftSideNav = () => {
         </div>
       </div>
 
-      <div className="card w-96 bg-base-100 shadow-none">
+      <div className="card  bg-base-100 shadow-none">
         <figure>
           <img
-            src={bayern2}
+            src={bayern3}
           />
         </figure>
         <div className="card-body">
